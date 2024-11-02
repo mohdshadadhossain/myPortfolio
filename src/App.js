@@ -12,13 +12,13 @@ import Skills from './Components/Skills Section/Skills'
 const App = () => {
   return (
     <>
-    <Navbar/>
-    <Home/>
-    <About/>
-    <Skills/>
-    <Project/>
-    <Contact/>
-    <Footer/>
+      <Navbar />
+      <Home />
+      <About />
+      <Skills />
+      <Project />
+      <Contact />
+      <Footer />
     </>
   )
 }
