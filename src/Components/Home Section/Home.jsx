@@ -11,9 +11,7 @@ const Home = () => {
     <section id='home' className='home section'>
       <div className="leftIcons">
         <div className="socials grid">
-          <a href="https://github.com" target="_blank"><AiFillGithub className="icon" /></a>
-          <a href="https://twitter.com/Aba_graphics" target="_blank"><TbBrandTwitter className="icon" /></a>
-          <a href="https://www.youtube.com/c/IsraTech1" target="_blank"> <AiFillYoutube className="icon" /></a>
+          <a href="https://github.com/mohdshadadhossain" target="_blank"><AiFillGithub className="icon" /></a>
           <div className="line"></div>
         </div>
       </div>
